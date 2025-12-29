@@ -1,6 +1,6 @@
 # LogRobust MCP Server
 
-MCP封装作者：庞力铖
+MCP封装作者：PLCCC
 
 github地址：https://github.com/Plc912/LogRobust-MCP-Server.git
 
