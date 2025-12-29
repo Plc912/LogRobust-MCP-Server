@@ -2,7 +2,7 @@
 
 MCP封装作者：庞力铖
 
-github地址：
+github地址：https://github.com/Plc912/LogRobust-MCP-Server.git
 
 邮箱：3522236586@qq.com
 
