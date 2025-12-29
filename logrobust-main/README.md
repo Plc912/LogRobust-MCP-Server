@@ -2,7 +2,7 @@
 
 MCP封装作者：庞力铖
 
-github地址：
+github：https://github.com/Plc912/LogRobust-MCP-Server.git
 
 邮箱：3522236586@qq.com
 
@@ -269,3 +269,4 @@ curl -X POST "http://127.0.0.1:4002/tools/predict_logs" \
 ## 许可证
 
 请参考项目根目录的LICENSE.txt文件。
+
